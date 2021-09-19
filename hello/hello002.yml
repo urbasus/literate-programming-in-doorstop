@@ -1,0 +1,15 @@
+active: true
+derived: false
+header: ''
+level: 2.1.0
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  The program shall print "Hello world!":
+
+  ```
+  $ hello.exe
+  Hello World!
+  ```

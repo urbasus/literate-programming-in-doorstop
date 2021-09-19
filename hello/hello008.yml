@@ -1,0 +1,18 @@
+active: true
+derived: false
+header: ''
+level: 4.2.0
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Using functions from the C Standard Library stdio.h header:
+
+  ```
+  <<headers>>=
+  #include <stdio.h>
+  @
+  ```
+
+  In case this requirement is not linked to any implementation, deactivate it to have it removed from generated documentation and code. Code tooling does this better, but it showcases how code orphaned from its requirements can be detected.

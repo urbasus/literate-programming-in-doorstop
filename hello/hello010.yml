@@ -1,0 +1,16 @@
+active: true
+derived: false
+header: ''
+level: 4.4.0
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Copyright belongs to Andreas Urban.
+
+  ```
+  <<copyright>>=
+  Copyright 2021 Andreas Urban
+  @
+  ```

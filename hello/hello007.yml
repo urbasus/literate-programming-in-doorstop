@@ -1,0 +1,37 @@
+active: true
+derived: false
+header: ''
+level: 3.2.0
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  C source template structure:
+
+  ```
+  <<template-source-c>>=
+  <<license-c>>
+
+  /* Headers */
+  <<headers>>
+
+  /* Macros */
+  <<macros>>
+
+  /* Declarations */
+  <<declarations>>
+
+  /* Definitions */
+  <<definitions>>
+  @
+  ```
+
+  Several template fields may be empty.
+
+  ```
+  <<headers>>=
+  <<macros>>=
+  <<declarations>>=
+  @
+  ```

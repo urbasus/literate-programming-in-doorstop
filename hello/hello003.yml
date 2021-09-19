@@ -1,0 +1,16 @@
+active: true
+derived: false
+header: ''
+level: 3.1.0
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  C program structure is that of the C template:
+
+  ```
+  <<hello.c>>=
+  <<template-source-c>>
+  @
+  ```

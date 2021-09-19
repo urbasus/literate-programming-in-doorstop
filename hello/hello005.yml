@@ -1,0 +1,21 @@
+active: true
+derived: false
+header: ''
+level: 4.1.0
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Printing "Hello World!" is made directly in the main function:
+
+  ```
+  <<definitions>>=
+
+  int main(int argc, char** argv)
+  {
+      puts("Hello world!");
+      return 0;
+  }
+  @
+  ```
